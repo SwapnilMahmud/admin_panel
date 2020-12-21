@@ -1,0 +1,27 @@
+.info{
+  margin:10px 0 0 400px;
+  padding:50px;
+}
+fieldset{
+  margin-right:500px;
+  padding:40px;
+  border:3px solid skyblue;
+  border-radius:4px;
+}
+.info input[type=text]{
+  padding:11px;
+
+}
+.info input[type=text]{
+  border:2px solid skyblue;
+  outline:none;
+}
+.info input[type=text]:hover{
+  border:2px solid tomato;
+}
+.info input[type=submit]{
+  border-radius:4px;
+  padding:5px;
+  outline:none;
+  border:2px solid skyblue;
+}
